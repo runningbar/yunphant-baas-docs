@@ -3,7 +3,9 @@ BaaS平台的文档仓库
 
 **文档页面** ：http://yunphant-baas.readthedocs.io/zh_CN/latest/
 
-#### 使用方法
+### 使用方法
+
+---
 
 * 使用Markdown编写帮助文档
 * 不要使用中文作为md文件名，否则会导致RTD自动编译失败
