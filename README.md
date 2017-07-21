@@ -1,6 +1,8 @@
 # yunphant-baas-docs
 BaaS平台的文档仓库
 
+[![Documentation Status](https://readthedocs.org/projects/yunphant-baas/badge/?version=latest)](http://yunphant-baas.readthedocs.io/zh_CN/latest/?badge=latest)
+
 **文档页面** ：http://yunphant-baas.readthedocs.io/zh_CN/latest/
 
 ### 使用方法
